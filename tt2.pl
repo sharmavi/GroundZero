@@ -5,7 +5,7 @@ use strict;
 use Data::Dumper;
 
 my @arr1 = qw(1 2 3 4 5 6 7);
-my @arr2 = qw(2 5 8 9 7 2);
+my @arr2 = qw(2 5 8 9 7 26);
 
 push(@arr1,@arr2);
 
